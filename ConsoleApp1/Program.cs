@@ -10,8 +10,7 @@ namespace ConsoleApp1
     {
          static void Main(string[] args)
         {
-            Toyduck toyduck = new Toyduck();
-
+            Toyduck toyduck = new Toyduck();  
             toyduck.Walk();
             toyduck.Swim();
 
